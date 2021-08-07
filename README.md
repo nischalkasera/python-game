@@ -1,2 +1,2 @@
 # test
-repo for testing git
+Multiplayer Game Using Socket Programming. Made in python.
